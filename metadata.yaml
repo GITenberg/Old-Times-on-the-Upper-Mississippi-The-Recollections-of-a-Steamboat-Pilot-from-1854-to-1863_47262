@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Old Times on the Upper Mississippi
 
   The Recollections of a Steamboat Pilot from 1854 to 1863'
